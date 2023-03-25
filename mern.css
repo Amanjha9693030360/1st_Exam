@@ -1,0 +1,59 @@
+.background{
+    width: 100%;
+    height: 100vh;
+    background-image: url(./th.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.ttt{
+    color: yellow;
+    text-transform: capitalize;
+    direction: rtl;
+    
+    
+}
+.yyy{
+    color: white;
+    text-shadow: 5px 5px  green;
+}
+.hhh{
+    color: aqua;
+    text-align: right;
+    text-transform: uppercase;
+}
+.jjj{
+    color: white;
+    text-align: center;
+    margin-top: 25px;
+    font-size: 400%;
+    text-shadow: 5px 5px red;
+}
+.lll{
+    text-transform: uppercase;
+    font-size: 200%;
+    text-align: center;
+    text-shadow: 3px 3px burlywood
+}
+.zzz{
+    text-align: center;
+    text-transform: capitalize;
+    color:wheat;
+}
+.ccc{
+    text-align: center;
+    color: white;
+
+}
+.vvv{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 400%;
+    color: darkgoldenrod;
+    text-shadow: 5px 5px green;
+
+}
+img{
+    width: 100px;
+    height: 50px;
+}
